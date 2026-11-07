@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic ki baddie — Aurora Discord Bot & Studio",
+  "description": "Production-grade multifunctional Discord server management bot (Python 3.11 + discord.py 2.x + SQLite) with interactive Setup Dashboard, RBAC, Ticket Management, JTC Voice, Moderation, Music, AI Assistant, and automated test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
